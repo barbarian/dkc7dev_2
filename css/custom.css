@@ -1,0 +1,27 @@
+#portfolio .portfolio-item .portfolio-link{
+}
+#portfolio .portfolio-item .portfolio-link img {
+    /*width:200px;
+    height:200px;*/
+    margin: 0 auto;
+}
+
+#portfolio .portfolio-link .portfolio-label,#portfolio .portfolio-link:visited .portfolio-label,#portfolio .portfolio-link:hover .portfolio-label,#portfolio .portfolio-link:active .portfolio-label{
+    text-align: center;
+    display: block;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 1.6em;
+    color: #18bc9c;
+    text-decoration: none;
+}
+
+.modal-body .img-centered{
+    width:200px;
+    height:200px;
+}
+
+#portfolio .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
